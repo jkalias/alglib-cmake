@@ -12,7 +12,7 @@ ALGLIB features include:
 ## Build
 With `make` facilities:
 ```bash
-$ git clone https://github.com/S-Dafarra/alglib-cmake.git
+$ git clone https://github.com/jkalias/alglib-cmake.git
 $ cd alglib-cmake
 $ mkdir build && cd build
 $ cmake ..
@@ -22,7 +22,7 @@ $ [sudo] make install
 
 With IDE build tool facilities, such as Visual Studio or Xcode
 ```bash
-$ git clone https://github.com/S-Dafarra/alglib-cmake.git
+$ git clone https://github.com/jkalias/alglib-cmake.git
 $ cd alglib-cmake
 $ mkdir build && cd build
 $ cmake ..
